@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background:rgba(233, 217, 217, 0.822);
+    padding:30px;
+    
+}
+h1{
+    font-size: 30px;
+}
+
+
+.card2{
+    float: left;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom:5px solid rgb(146, 126, 126) ;
+    border-right: 5px solid rgb(109, 87, 87) ;
+    padding: 5px;
+    margin: 5px;
+    min-width: 300px;
+    border-radius: 20px;
+    background: rgba(247, 239, 228, 0.699);
+    color: magenta;
+
+}
+.search{
+    background: rgba(245, 233, 233, 0.801);
+    border: 1px solid black;
+    text-align: center;
+    padding: 6px;
+}
+.card{
+    padding: 30px;
+    text-align: center;
+    width: 100%;
+    background: rgba(245, 234, 234, 0.801);
+}
+.a{
+    color: blue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.g{
+    font-size: 15px;
+    color: black; 
+}
